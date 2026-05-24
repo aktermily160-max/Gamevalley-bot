@@ -1,7 +1,6 @@
 {
   "name": "gamevalley-auto-reply-bot",
   "version": "1.0.0",
-  "description": "Facebook Messenger AI auto-reply bot for GameValley page",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
